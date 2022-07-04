@@ -1,6 +1,6 @@
 package com.example.marvelapp.framework.network.response
 
 data class DataWrapperResponse(
-    val capyright: String,
+    val copyright: String,
     val data: DataContainerResponse
 )
